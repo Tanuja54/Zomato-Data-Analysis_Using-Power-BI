@@ -6,9 +6,9 @@
 
 **Key Metrics**
 
-_Total Customers:33_
-_|Total Sales:3.14M_
-_|Total Orders:10K_
+_Customers:33_
+_|Sales:3.14M_
+_|Orders:10K_
 _|No. of Items:23_
 _|Total Restaurants:61_
 _|Most popular dish:Chicken Biryani_
@@ -54,37 +54,54 @@ _|Most popular dish:Chicken Biryani_
 **Created Custom Measure**
 
 1.Most Frequently Order dish
-![image](https://github.com/user-attachments/assets/29180b82-43bc-4c7f-b41c-1b8c8c330f60)
+
+![image](https://github.com/user-attachments/assets/a7674d7e-7b68-433c-8b6d-3ab596bebc6d)
+
 
 
 2.Season
-![image](https://github.com/user-attachments/assets/a9af2754-71aa-458a-abd9-f3c3366fcdf4)
+
+![image](https://github.com/user-attachments/assets/33b3efac-d203-48cc-9c63-1009abb628b7)
+
+
 
 
 3.Order timeslot
-![image](https://github.com/user-attachments/assets/d8606012-c077-4342-b503-370322e6e957)
+
+![image](https://github.com/user-attachments/assets/338a38b4-8f40-4b8b-a19d-2cdf2bae9137)
+
 
 
 4.Rider rating
-![image](https://github.com/user-attachments/assets/aa3a89ee-f067-4eca-81f7-29c07ac19944)
+
+![image](https://github.com/user-attachments/assets/aa7bf74d-5414-4ea8-9856-42e028fc4b61)
+
+
 
 5.Previouse Month sales
-![image](https://github.com/user-attachments/assets/8cd4bdff-18a4-4e74-a9a5-098b29467f86)
+
+![image](https://github.com/user-attachments/assets/aa09008d-335d-41d8-901c-019f4fb21a06)
 
 
 6.Sales Growth
 
-![image](https://github.com/user-attachments/assets/4ec0ebe7-9210-4add-bde1-9096a9b6a6cd)
+![image](https://github.com/user-attachments/assets/ca00e1ea-a7d7-4ca1-8ee6-d2d9385cae16)
 
 
 7.Seasonal Demand
 
-![image](https://github.com/user-attachments/assets/eccc5bb0-a548-4181-b5cb-b540ae52e5f2)
+![image](https://github.com/user-attachments/assets/41b92195-e080-41bd-9d5e-e492af71d4de)
+
+![image](https://github.com/user-attachments/assets/33291465-7f51-45ba-a4df-6503ca086ce2)
+
 
 8.Order Cancelled
 
-![image](https://github.com/user-attachments/assets/420a2997-dfe9-4127-b5ec-3bec3ff92069)
+![image](https://github.com/user-attachments/assets/110eac8e-132e-449b-be13-82b56cfee20e)
 
 
+9.Delivery Time
+
+![image](https://github.com/user-attachments/assets/67968031-e6f0-4af9-83a0-98da04759c64)
 
 
