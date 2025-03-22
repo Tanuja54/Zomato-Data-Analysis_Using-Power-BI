@@ -4,19 +4,48 @@
 - Analyze sales distribution across various regions.
 - Provide actionable insights for business growth.
 
+**Key Metrics**
+
+_Total Customers:33_
+_|Total Sales:3.14M_
+_|Total Orders:10K_
+_|No. of Items:23_
+_|Total Restaurants:61_
+_|Most popular dish:Chicken Biryani_
 
 **Sales & Customer Insight**
 
-![image](https://github.com/user-attachments/assets/f1cfdb92-abe7-4f06-b718-c9ebd58fdbf9)
+![image](https://github.com/user-attachments/assets/27eab108-92be-44d4-8286-6849ec7b0268)
 
-**Delivery Efficiency** 
 
-![image](https://github.com/user-attachments/assets/747f8e95-c525-4907-8411-7e94bd074e32)
+* Here tracks 33 customers, generating total sales of 3.14M across 10K orders.
+* Mumbai leads in revenue generation with 1.52M.
+* March showed the highest sales growth (+23.49%), while February experienced the steepest decline (-15.49%).
+* The highest order volume occurs on weekdays (70.9%).
+***
 
-**Restaurant & Menu Performance**
+
+
+**Delivery Efficiency Insight** 
+
+![image](https://github.com/user-attachments/assets/f4238357-b273-471f-a7ef-a1ea12e7f27f)
+
+
+* Zomato processed 10000 orders, successfully completing 9,750 with a 91.8% success rate.
+* Average delivery time is 39 minutes.
+* The highest number of orders occur in the morning (3,249).
+
+***
+
+**Restaurant & Menu Performance Insight**
 
 ![image](https://github.com/user-attachments/assets/58be32ba-6c8c-45eb-9b4f-579c6e3da6f4)
 
+* Total of 61 restaurants analyzed, with Bengaluru having the highest restaurant count (20).
+* Top revenue-generating restaurants include Gajalee, Bademiya, and Indigo.
+* The most preferred time slot for orders is morning.
+
+***
 
 **Model view**
 
@@ -55,7 +84,6 @@
 8.Order Cancelled
 
 ![image](https://github.com/user-attachments/assets/420a2997-dfe9-4127-b5ec-3bec3ff92069)
-
 
 
 
