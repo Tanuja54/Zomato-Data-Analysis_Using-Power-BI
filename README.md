@@ -103,6 +103,7 @@ _|Most popular dish:Chicken Biryani_
 
 9.Delivery Time
 
-![image](https://github.com/user-attachments/assets/67968031-e6f0-4af9-83a0-98da04759c64)
+![image](https://github.com/user-attachments/assets/425aee4e-4a44-436d-aa3f-0bda80a36b91)
+
 
 
